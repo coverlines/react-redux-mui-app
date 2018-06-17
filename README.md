@@ -1,2 +1,2 @@
-# react-redux-router-mui-app
+# react-redux-mui-app
 images_upload
